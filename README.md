@@ -104,17 +104,6 @@ looking_for: SWE / ML / quant internships
 
 ---
 
-### `> git log --stats`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nealp&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=f5b400&icon_color=f5b400&text_color=c9c7c1&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nealp&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=f5b400&text_color=c9c7c1&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nealp&bg_color=0d0d0f&color=c9c7c1&line=f5b400&point=e8e6e1&area=true&area_color=f5b400&hide_border=true&custom_title=Activity" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1f,50:0d0d0f,100:000000&height=100&section=footer" width="100%"/>
 </p>
