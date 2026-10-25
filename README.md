@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://nealpatel.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d0d0f?style=for-the-badge&logo=vercel&logoColor=f5b400"/></a>
   <a href="https://www.linkedin.com/in/neal-patel432/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0f?style=for-the-badge&logo=linkedin&logoColor=f5b400"/></a>
   <a href="mailto:nealp3034@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0f?style=for-the-badge&logo=gmail&logoColor=f5b400"/></a>
   <img src="https://komarev.com/ghpvc/?username=nealp&color=0d0d0f&style=for-the-badge&label=VISITORS"/>
@@ -26,6 +27,7 @@ building:  EventTSLM — event-conditioned time-series foundation models (MAIF Q
 previous:
   - SWE Intern @ Atom Bioworks (YC W21)    # agentic AI platform for biologists (Google ADK, FastAPI)
   - ARQ Quant Analyst @ MAIF               # multi-agent RL portfolio optimizer, 26 assets
+portfolio: https://nealpatel.vercel.app
 looking_for: SWE / ML / quant internships
 ```
 
