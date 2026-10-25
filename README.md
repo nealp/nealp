@@ -68,10 +68,10 @@ looking_for: SWE / ML / quant internships
 </td>
 <td width="50%" valign="top">
 
-**[🩻 Fairness in Medical Imaging](https://github.com/nealp/URV_Fairness_In_Medical_Imaging)**
-<br/><sub>Undergraduate research (URV) at UMass Amherst CICS on bias in medical-imaging models: measuring how diagnostic performance differs across patient demographic groups.</sub>
+**[🩻 Fairness in Medical Imaging](https://github.com/nealp/URV_Fairness_In_Medical_Imaging)** &nbsp;<sub>URV · UMass Amherst CICS</sub>
+<br/><sub>Tested whether ELITE, an AI model for accelerated breast MRI reconstruction, helps all patients equally. I ran 3 independent replication cohorts on NYU fastMRI Breast data as SLURM GPU jobs, then combined 5 cohorts (274 patients) in a meta-analysis. Patients with more body tissue in the scan got less benefit (ρ = −0.658): <b>+57%</b> contrast-to-noise gain for the smallest group vs. <b>+17%</b> for the largest.</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/PyTorch-0d0d0f?style=flat-square&logo=pytorch&logoColor=f5b400"/> <img src="https://img.shields.io/badge/Computer_Vision-0d0d0f?style=flat-square&logoColor=f5b400"/> <img src="https://img.shields.io/badge/ML_Fairness-0d0d0f?style=flat-square&logoColor=f5b400"/>
+<img src="https://img.shields.io/badge/Python-0d0d0f?style=flat-square&logo=python&logoColor=f5b400"/> <img src="https://img.shields.io/badge/SciPy-0d0d0f?style=flat-square&logo=scipy&logoColor=f5b400"/> <img src="https://img.shields.io/badge/SLURM_HPC-0d0d0f?style=flat-square&logoColor=f5b400"/> <img src="https://img.shields.io/badge/MRI_Reconstruction-0d0d0f?style=flat-square&logoColor=f5b400"/>
 
 </td>
 </tr>
